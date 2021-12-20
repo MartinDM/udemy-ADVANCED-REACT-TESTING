@@ -79,7 +79,7 @@ export function SignIn(): React.ReactElement {
       <Flex minH="84vh" align="center" justify="center">
         <Stack spacing={8} mx="auto" py={6} px={6}>
           <Stack alignSelf="center">
-            <Heading>Sign in to your account</Heading>
+            <Heading role="heading">Sign in to your account</Heading>
           </Stack>
           <Box
             rounded="lg"

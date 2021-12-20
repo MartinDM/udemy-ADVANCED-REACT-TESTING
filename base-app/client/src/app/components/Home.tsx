@@ -14,7 +14,7 @@ export function Home(): React.ReactElement {
         m={10}
         alignSelf="center"
       >
-        <Heading align="center" textColor="gray.100">
+        <Heading role="heading" align="center" textColor="gray.100">
           Welcome to
           <br />
           Popular Music Venue
